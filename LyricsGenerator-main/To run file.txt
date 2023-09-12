@@ -1,0 +1,2 @@
+Setup you api key of OpenAI
+Streamlit run songs.py
