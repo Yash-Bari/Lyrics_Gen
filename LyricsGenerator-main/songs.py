@@ -5,7 +5,7 @@ from gtts import gTTS
 from deep_translator import GoogleTranslator
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'your_openai_api_key'
 
 # Create a Streamlit web app
 st.title("🎵 Poem and Song Lyrics Generator with Translator 🌍📜🎶")
